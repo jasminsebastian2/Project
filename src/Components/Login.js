@@ -58,7 +58,7 @@ const Login = () => {
 
                     <div className="flex items-center mb-6 md:w-full mt-[20px]  ">
                         <label class="label">
-                            <span class="label-text tex-black font-medium">Or Sign In With</span>
+                            <span class="label-text tex-black font-medium lg:ml-[70px]">Or Sign In With</span>
                         </label>
                     </div>
 
