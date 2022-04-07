@@ -26,8 +26,8 @@ const Home = (props) => {
                                 <div className="flex gap-10 px-2 py-1 border-solid border-2 border-black rounded  lg:w-[500px] ">
                                     <div className="flex items-center">
                                         <img
-                                            src="/img/logo.png"
-                                            alt="checkupimage"
+                                            src={ele.flag}
+                                            alt="cimage"
                                             className="w-[100px] h-[100px] "
                                         />
                                     </div>
